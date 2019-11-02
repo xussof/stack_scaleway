@@ -1,0 +1,2 @@
+- name: Login to scaleway api
+  shell: "scw login --token={{ arsolute_scaleway_token_id }} --organization={{ scaleway_organization_id }}"
