@@ -1,4 +1,4 @@
 - src: https://github.com/xussof/software_scw
   scm: git
   version: master
-  name: software_scw
+  name: xussof.software_scw
